@@ -6,7 +6,13 @@
 				"navigationBarTitleText": "音乐"
 			}
 		}
-	],
+	    ,{
+            "path" : "pages/musicDetail/musicDetail",
+            "style" : {
+				"navigationBarTitleText": "歌曲播放"
+			}
+        }
+    ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
