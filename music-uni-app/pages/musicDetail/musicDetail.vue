@@ -14,7 +14,7 @@
 		<!-- 歌曲图片 -->
 		<view class="flex align-center justify-center" style="height:420rpx;">
 			<img
-				src="https://student-m.oss-cn-hangzhou.aliyuncs.com/1ys38oajjeu8000.jpeg"
+				src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605184720021&di=8e2316a2945519f2c37affeb8334cfc6&imgtype=0&src=http%3A%2F%2Fphoto.16pic.com%2F00%2F49%2F38%2F16pic_4938983_b.jpg"
 				lazy-load
 				mode="widthFix"
 				style="border-radius: 35rpx;box-shadow: 0 2rpx 6rpx 0; height: 420rpx;"
@@ -74,7 +74,7 @@
 			</view>
 		</view>
 		<!-- 歌手具体信息 -->
-		<view v-if="!listStatus">
+		<view v-if="!listStatus" style="margin: 50rpx;">
 			<view class="flex justify-between">
 				<view>
 					<view>
